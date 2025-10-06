@@ -1,0 +1,13 @@
+DOCKER_DEFAULT_PLATFORM=linux/amd64 docker compose build
+docker push ctekkaya/liv-enerji-app:4.0
+
+
+
+ssh root@65.109.234.131
+
+sudo systemctl restart nginx
+
+
+banka bakiyem konnektor @ uyumsoft.com
+web servis entegrasyonu
+

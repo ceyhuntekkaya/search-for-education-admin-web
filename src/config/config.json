@@ -1,0 +1,10 @@
+{
+  "api": {
+    "invokeUrl": "https://portal.livenerjias.com.tr/api",
+    "baseUrl": "https://portal.livenerjias.com.tr"
+  },
+  "apiLocal": {
+    "invokeUrl": "http://localhost:8080/api",
+    "baseUrl": "http://localhost:3000"
+  }
+}
